@@ -995,7 +995,7 @@
     height: 80vh;
     margin: auto;
     margin-top:50px;
-    background-color: rgba(245, 240, 249, 0.9);
+    background-color: rgba(238, 236, 236, 0.5);
 }
 .teamparent{
     margin-top: 50px;
@@ -1085,7 +1085,7 @@
 .section10{
     width: 85%;
     height: 100vh;
-    background-color: rgba(245, 240, 249, 0.7);
+    background-color: rgba(238, 236, 236, 0.5);
     margin-left: 110px;
 }
 .news{
